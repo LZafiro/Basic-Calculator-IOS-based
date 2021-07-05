@@ -4,7 +4,7 @@ This project was made for ReactJs study propouses. It is a IOS based calculator 
 
 ## Demonstration
 
-[! Alt Text](https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/demo_gif.gif)
+![Alt Text](https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/demo_gif.gif)
 
 ## Available Scripts
 
