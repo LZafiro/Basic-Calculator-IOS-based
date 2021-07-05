@@ -5,7 +5,9 @@ This project was made for ReactJs study propouses. It is a IOS based calculator 
 ## Demonstration
 
 <p align="center">
-  <img src="https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/unknown_2021.07.05-10.08dasdsa_2.gif" />
+  <img src="https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/unknown_2021.07.05-10.08dasdsa_2.gif"
+       width=500,
+       height=400/>
 </p>
 
 ## Available Scripts
