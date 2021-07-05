@@ -6,6 +6,10 @@ This project was made for ReactJs study propouses. It is a IOS based calculator 
 
 ![Alt Text](https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/demo_gif.gif)
 
+<p align="center">
+  <img src="https://github.com/LZafiro/Basic-Calculator-IOS-based/blob/main/assets/demo_gif.gif" />
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
